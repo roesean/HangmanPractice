@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 25px
+}
+
+.correct-word {
+    font-size: 45px;
+    margin-top: 40px;
+}
+
+body {
+    margin-top: 60px;
+}
